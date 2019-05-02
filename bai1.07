@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Ký tự đặc biệt, chèn hình ảnh, tạo danh sách và liên kết</title>
+</head>
+<body>
+	<h2 style="text-align: center;color: pink">Công ty Hoa tươi Nhân Ái</h2>
+	<img src="https://img.lovepik.com/element/40076/1943.png_860.png" height="20%" width="20%" align="left">
+	<ol type="1">
+		<li><font style="background-color: pink;color: white;font-weight: bold;">Giới thiệu</font></li>
+			<ul style="list-style-type: square;">
+				<li>Thành lập ngày 25/05/2007</li>
+				<li>Chuyên cung cấp các loại hoa tươi</li>
+				<li>Có trên 20 cửa hàng bán lẻ tại TPHCM</li>
+				<li>Nhận kết giỏ hoa theo yêu cầu của khách hàng</li>
+			</ul>
+		<li><font style="background-color: pink;color: white;font-weight: bold;">Liên hệ</font></li>
+			<ul style="list-style-type: circle;">
+				<li>Điện thoại: 84-08-8351056</li>
+				<li>Địa chỉ: 227 Nguyễn Văn Cừ, Quận 5, TPHCM</li>
+			</ul>
+	</ol>
+	<p>&copy:Copyright:<a href="http://www.csc.hcmuns.edu.vn">Trung Tâm Tin Học-Đại Học Bách Khoa Tự Nhiên TPHCM</a></p>
+</body>
+</html>
